@@ -1,6 +1,6 @@
 ## thereto
 + 2020년 6월 출시, 한 위치에서 친구한테 편지를 보내면 받은 친구는 보낸 친구의 위치 근처에 가야 열어 볼 수 있는 앱
-> [thereto](https://apps.apple.com/kr/app/thereto-%ED%8E%B8%EC%A7%80%EB%A5%BC-%EC%97%AC%EB%8A%94-%EA%B3%B5%EA%B0%84/id1500364832)  
+  > [thereto](https://apps.apple.com/kr/app/thereto-%ED%8E%B8%EC%A7%80%EB%A5%BC-%EC%97%AC%EB%8A%94-%EA%B3%B5%EA%B0%84/id1500364832)  
 
 ## 내 트리를 꾸며줘!
 - 2021년 크리스마스 시즌에 운영, 본인의 트리를 생성하고 해당 링크를 공유하여 다른 사람들이 메시지를 남기게 할 수 있는 웹 콘텐츠, 본인만 크리스마스에 열어볼 수 있음
@@ -13,11 +13,11 @@
   > [내 트리를 꾸며줘!](https://colormytree.me/)
 
 ## 2 The Moon
-  + 주식, 코인계에서 밈으로 있던 "To The Moon"을 게임 승화해서 표현한 작품.
++ 주식, 코인계에서 밈으로 있던 "To The Moon"을 게임 승화해서 표현한 작품.
   > [2 THE MOON](https://apps.apple.com/kr/app/2-the-moon/id1567263014) 
 
 ## Wordle
-  + 미국 SNS에서 갑자기 유행 타던 미니게임?
++ 미국 SNS에서 갑자기 유행 타던 미니게임?
   + 5글자 영단어를 맞추는 게임이고 UI, 디자인을 살짝 더한 야구게임 정도라고 할 수 있음
   + 한국에서 이런 비슷한 걸 통하게 할 수 있는게 없을까?
   > [Wordle](https://www.powerlanguage.co.uk/wordle/) 
