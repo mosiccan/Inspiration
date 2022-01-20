@@ -14,3 +14,4 @@
 
 ## 2022
 - 2 THE MOON
+- Wordle
