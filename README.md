@@ -18,3 +18,4 @@
   - [Wordle](https://github.com/mosiccan/Inspiration/blob/main/writing.md#wordle)
   - [포카마켓](https://github.com/mosiccan/Inspiration/blob/main/writing.md#%ED%8F%AC%EC%B9%B4%EB%A7%88%EC%BC%93) 
   - [MOON - Current Moon Phase](https://github.com/mosiccan/Inspiration/blob/main/writing.md#moon---current-moon-phase)
+  - [Font In Logo](https://github.com/mosiccan/Inspiration/blob/main/writing.md#font-in-logo)
