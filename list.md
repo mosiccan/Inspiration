@@ -77,4 +77,4 @@
 
 ## 오늘의 방역
 + TBD
-  + [오늘의 방역](https://o-bang.kr/)
+  > [오늘의 방역](https://o-bang.kr/)
