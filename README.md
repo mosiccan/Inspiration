@@ -4,8 +4,12 @@
 <br>
 
 <목차 예정>
+- 2020
 - 2021
 - 2022
+
+## 2020
+  - [포스텔러](https://github.com/mosiccan/Inspiration/blob/main/list.md#%ED%8F%AC%EC%8A%A4%ED%85%94%EB%9F%AC)
 
 ## 2021
   - [thereto](https://github.com/mosiccan/Inspiration/blob/main/list.md#thereto)
