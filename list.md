@@ -10,6 +10,17 @@
 + TBU 
   > [포스텔러](https://forceteller.com/)
 
+<br><br>
+
+## SwingVision
++ 2020년도 쯤 등장한 AI 기반 테니스 분석 앱
++ 2020년쯤 애플 이벤트에서 어떤 앱으로 선정이 되어서 소개가 된 적 있는데 그때 약간의 소름이 돋았었다. 
++ 그때가 한창 머신러닝, 딥러닝 초반에 핫했을 시기였던 거 같은데 키노트에 짧게 나온 영상을 보고 깜짝놀랐다.
++ TBU 
+  > [SwingVision](https://swing.tennis/)
+
+<br><br>
+
 ## thereto
 + 2020년 6월 출시, 한 위치에서 친구한테 편지를 보내면 받은 친구는 보낸 친구의 위치 근처에 가야 열어 볼 수 있는 앱
   > [thereto](https://apps.apple.com/kr/app/thereto-%ED%8E%B8%EC%A7%80%EB%A5%BC-%EC%97%AC%EB%8A%94-%EA%B3%B5%EA%B0%84/id1500364832) 
