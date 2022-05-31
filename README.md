@@ -23,3 +23,4 @@
   - [MOON - Current Moon Phase](https://github.com/mosiccan/Inspiration/blob/main/list.md#moon---current-moon-phase)
   - [Font In Logo](https://github.com/mosiccan/Inspiration/blob/main/list.md#font-in-logo)
   - [오늘의 방역](https://github.com/mosiccan/Inspiration/blob/main/list.md#%EC%98%A4%EB%8A%98%EC%9D%98-%EB%B0%A9%EC%97%AD)
+  - [뱅크샐러드 유전자 검사, 빙그레 혀키트](https://github.com/mosiccan/Inspiration/blob/main/list.md#%EB%B1%85%ED%81%AC%EC%83%90%EB%9F%AC%EB%93%9C-%EC%9C%A0%EC%A0%84%EC%9E%90-%EA%B2%80%EC%82%AC-%EB%B9%99%EA%B7%B8%EB%A0%88-%ED%98%80%ED%82%A4%ED%8A%B8)
