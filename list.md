@@ -174,3 +174,25 @@ MZ세대의 본인에 대한 궁금증, 더 자세하게 자신을 알아가고 
     를 종종 본다.
 
 <br><br>
+
+## Eventbrite
++ 미국의 이벤트, 모임 티켓팅 사이트
+  > [Eventbrite](https://www.eventbrite.com/)
+
+
+<br><br>
+
+## Festa!
++ 온∙오프라인 이벤트 플렛폼
+  > [Festa!](https://festa.io/)
+
+
+<br><br>
+
+## Kahoot!
++ 게임 기반 학습 플랫폼
+  > [Kahoot!](https://kahoot.com/)
+
+
+<br><br>
+
