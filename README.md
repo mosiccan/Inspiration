@@ -33,3 +33,4 @@
   - [FIFA+ AR overlay]
   - [AI 그림일기 앱 '하루']
   - [BeReal]
+  - [Doritos Crunch Cancellation]
